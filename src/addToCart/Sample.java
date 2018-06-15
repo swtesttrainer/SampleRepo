@@ -7,7 +7,12 @@ public class Sample
 	{
 		// TODO Auto-generated method stub
 		System.out.println("computer");
-		System.out.println("Laptop");
+		System.out.println("laptop");
+		System.out.println("laptop");
+		System.out.println("laptop");
+		System.out.println("laptop");
+		System.out.println("laptop");
+		System.out.println("laptop");
 	}
 
 }
