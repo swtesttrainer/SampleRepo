@@ -12,7 +12,7 @@ public class Sample
 		System.out.println("laptop");
 		System.out.println("laptop");
 		System.out.println("laptop");
-		System.out.println("laptop");
+		
 	}
 
 }
